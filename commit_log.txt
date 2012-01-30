@@ -3,3 +3,4 @@ Pacman and Ghost Pattern for 2012
 ----------------------------
 Commit 1 on 2012-01-30 12:00:00
 Commit 2 on 2012-01-30 12:00:00
+Commit 3 on 2012-01-30 12:00:00

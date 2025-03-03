@@ -1,0 +1,3 @@
+# GitHub Contribution Pattern Log
+Pacman and Ghost Pattern for 2012
+----------------------------
